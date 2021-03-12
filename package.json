@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@webserverless/fc-express": "^0.1.4",
+    "alicloud-serverless-express": "^1.0.2",
+    "express": "^4.17.1"
+  }
+}
